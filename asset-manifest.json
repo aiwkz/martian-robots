@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/martian-robots/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/martian-robots/static/js/main.f4d6daca.chunk.js",
+    "main.js.map": "/martian-robots/static/js/main.f4d6daca.chunk.js.map",
+    "runtime-main.js": "/martian-robots/static/js/runtime-main.e382af7d.js",
+    "runtime-main.js.map": "/martian-robots/static/js/runtime-main.e382af7d.js.map",
+    "static/js/2.4b3ac220.chunk.js": "/martian-robots/static/js/2.4b3ac220.chunk.js",
+    "static/js/2.4b3ac220.chunk.js.map": "/martian-robots/static/js/2.4b3ac220.chunk.js.map",
+    "static/js/3.8640ee84.chunk.js": "/martian-robots/static/js/3.8640ee84.chunk.js",
+    "static/js/3.8640ee84.chunk.js.map": "/martian-robots/static/js/3.8640ee84.chunk.js.map",
+    "index.html": "/martian-robots/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/martian-robots/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4b3ac220.chunk.js.LICENSE.txt": "/martian-robots/static/js/2.4b3ac220.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e382af7d.js",
+    "static/js/2.4b3ac220.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f4d6daca.chunk.js"
+  ]
+}
